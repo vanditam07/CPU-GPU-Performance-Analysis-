@@ -1,5 +1,5 @@
-🚀 SPARK - Superior Performance Assessment and Real-time Kinetics
-SPARK is an advanced performance analytics app that collects real-time system data, stores it in a MySQL database, provides visualizations, and predicts future CPU and GPU usage using machine learning models.
+🚀 Performance Assessment and Real-time Kinetics
+An advanced performance analytics app that collects real-time system data, stores it in a MySQL database, provides visualizations, and predicts future CPU and GPU usage using machine learning models.
 
 ✨ Key Features
 
